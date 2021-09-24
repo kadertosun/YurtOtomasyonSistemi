@@ -1,6 +1,6 @@
 # Yurt Otomasyon Sistemi
 
-Bu uygulamada amaç bir özel yurtta bulunan öğrencilerin kayıt ekleme,güncelleme,silme,Yurt ücretini ödeme, yurdun giderlerini hesaplayıp iststistiklerini tutma, personel kayıtlarını oluşturma,kullanıcı işlemlerini gerçekleştirme(şifre yenileme, güncelleme yeni kullanıcı ekleme) ve hesap makinesi, not defteri gibi kısa yollara erişim sağlanmaktadır.
+Bu uygulamada amaç bir özel yurtta bulunan öğrencilerin kaydını ekleme, güncelleme, silme, Yurt ücretini ödeme, yurdun giderlerini hesaplayıp iststistiklerini tutma, personel kayıtlarını oluşturma,kullanıcı işlemlerini gerçekleştirme(şifre yenileme, güncelleme yeni kullanıcı ekleme) ve hesap makinesi, not defteri gibi kısa yollara erişimini sağlamak bilgileri veritabanına aktarmak ve gerekli işlemleri yapmaktır.
 
 <h2>Uygulama Ekran Görüntüleri</h2>
 <img src="https://i.hizliresim.com/addn35l.PNG"></img>
@@ -12,4 +12,10 @@ Bu uygulamada amaç bir özel yurtta bulunan öğrencilerin kayıt ekleme,günce
 <img src="https://i.hizliresim.com/t7m05nd.PNG"></img>
 <h2>Veritabanı Ekran Görüntüsü</h2>
 <img src="https://i.hizliresim.com/hqu1cfp.png"></img>
+ <b>Kullanılan Platformlar</b>
+ <ul>
+ <li>visual Studio </li>
+  <li>MSSQL </li>
+ <li> Canva	</li>
+</ul>
  
